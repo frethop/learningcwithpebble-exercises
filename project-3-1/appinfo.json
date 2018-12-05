@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "C Programming With Pebble OS",
+    "longName": "Project 3.1",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Project 3.1",
+    "targetPlatforms": [
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "5501fa50-4196-4313-84ff-d0b9f4800347",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
