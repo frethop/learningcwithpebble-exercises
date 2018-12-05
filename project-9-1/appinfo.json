@@ -1,0 +1,27 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "robisodd",
+    "enableMultiJS": true,
+    "longName": "Project 9.1",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/SourceCodePro-Regular.ttf",
+                "name": "SOURCE_18",
+                "targetPlatforms": null,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Project 9.1",
+    "uuid": "3ccc4860-3e32-4691-b216-8ef4c7e1f770",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}

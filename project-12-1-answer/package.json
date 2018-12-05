@@ -1,0 +1,31 @@
+{
+    "author": "jipping+c@hope.edu",
+    "dependencies": {},
+    "keywords": [],
+    "name": "Project 12.1",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Project 12.1",
+        "enableMultiJS": true,
+        "messageKeys": {},
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "data/ceasar.txt",
+                    "name": "CEASAR",
+                    "targetPlatforms": null,
+                    "type": "raw"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "uuid": "721d2e3a-24d1-49bf-b804-9291f2f86550",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}

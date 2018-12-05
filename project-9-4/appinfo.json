@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MathewReiss",
+    "enableMultiJS": true,
+    "longName": "Project 9-4",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Project 9-4",
+    "uuid": "29109906-7c2a-4fb0-947d-336669300899",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}

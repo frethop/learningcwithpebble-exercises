@@ -1,0 +1,50 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "jipping+c@hope.edu",
+    "enableMultiJS": true,
+    "longName": "Project 9.3",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "data/madlibs.txt",
+                "name": "MADLIBS",
+                "targetPlatforms": null,
+                "type": "raw"
+            },
+            {
+                "file": "data/nouns.txt",
+                "name": "NOUNS",
+                "targetPlatforms": null,
+                "type": "raw"
+            },
+            {
+                "file": "data/adjectives.txt",
+                "name": "ADJECTIVES",
+                "targetPlatforms": null,
+                "type": "raw"
+            },
+            {
+                "file": "data/verbs.txt",
+                "name": "VERBS",
+                "targetPlatforms": null,
+                "type": "raw"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Project 9.3",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "2b2dbce7-4a03-4fe7-8b55-b3956111f0c0",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
