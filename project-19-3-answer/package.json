@@ -1,0 +1,39 @@
+{
+    "author": "MathewReiss",
+    "dependencies": {},
+    "keywords": [],
+    "name": "chapter-5-2",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Chapter 5-2",
+        "enableMultiJS": false,
+        "messageKeys": {},
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/downFace.png",
+                    "memoryFormat": "8Bit",
+                    "name": "IMAGE",
+                    "storageFormat": "png",
+                    "targetPlatforms": [
+                        "basalt",
+                        "chalk"
+                    ],
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "08546ce3-ae47-49b4-bb76-5980e82256e4",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}

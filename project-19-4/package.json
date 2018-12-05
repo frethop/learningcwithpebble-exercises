@@ -1,0 +1,50 @@
+{
+    "author": "MakeAwesomeHappen",
+    "dependencies": {},
+    "keywords": [
+        "pebble-app"
+    ],
+    "name": "project-19-4",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "project-19-4",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "dummy"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/water_360.png",
+                    "memoryFormat": "8Bit",
+                    "name": "WATER",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/street_360.png",
+                    "memoryFormat": "8Bit",
+                    "name": "STREET",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/chameleon_360.png",
+                    "memoryFormat": "8Bit",
+                    "name": "CHAMELEON",
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "5d74fa49-9390-49e1-b2d8-6b435fe0f6e4",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}

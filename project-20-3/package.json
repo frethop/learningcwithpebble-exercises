@@ -1,0 +1,36 @@
+{
+    "author": "jipping+c@hope.edu",
+    "dependencies": {},
+    "keywords": [],
+    "name": "project-20.3",
+    "pebble": {
+        "capabilities": [
+            "location"
+        ],
+        "displayName": "Project 20.3",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "LATLONG",
+            "LATITUDE",
+            "LONGITUDE",
+            "ALTITUDE",
+            "ACCURACY",
+            "ADDRESS",
+            "STREETADDRESS"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "53112c08-0b07-48f8-86b9-43d73874d6a3",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}

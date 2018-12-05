@@ -1,0 +1,32 @@
+{
+    "author": "jipping+c@hope.edu",
+    "dependencies": {},
+    "keywords": [],
+    "name": "c20",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "c20",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "ASK",
+            "DEBT"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "621b9525-f015-42a4-91aa-636f67d1c64e",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
