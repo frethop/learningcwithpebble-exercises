@@ -1,0 +1,24 @@
+{
+    "author": "robisodd",
+    "dependencies": {},
+    "keywords": [],
+    "name": "project-14.1",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Project 14.1",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "22cea829-68a9-4d2c-ada9-a792fc6b4055",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}

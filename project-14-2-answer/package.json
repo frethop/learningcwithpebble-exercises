@@ -1,0 +1,24 @@
+{
+    "author": "jipping+c@hope.edu",
+    "dependencies": {},
+    "keywords": [],
+    "name": "project-14.2a",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Project 14.2A",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "7df6e20d-92f4-42b9-81ca-c13ec331f928",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}

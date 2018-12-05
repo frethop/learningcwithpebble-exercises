@@ -1,0 +1,31 @@
+{
+    "author": "robisodd",
+    "dependencies": {},
+    "keywords": [],
+    "name": "project-18.4",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Project 18.4",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "data/articles.txt",
+                    "name": "ARTICLES",
+                    "targetPlatforms": null,
+                    "type": "raw"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "uuid": "509fdca3-7c0b-429a-b933-d9c6fbd6289e",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}

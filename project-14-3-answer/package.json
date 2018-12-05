@@ -1,0 +1,24 @@
+{
+    "author": "allan175@hotmail.co.uk",
+    "dependencies": {},
+    "keywords": [],
+    "name": "exercise_14_3_answer",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "exercise_14_3_answer",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "5a6c51ec-c350-4ee9-8e2e-8ed6f30acfe2",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}

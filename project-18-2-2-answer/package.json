@@ -1,0 +1,24 @@
+{
+    "author": "jipping@hope.edu",
+    "dependencies": {},
+    "keywords": [],
+    "name": "p1822",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "p1822",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "01139d70-8c0b-4b9a-899d-e873eb1b9e67",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}

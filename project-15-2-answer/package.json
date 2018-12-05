@@ -1,0 +1,24 @@
+{
+    "author": "allan175@hotmail.co.uk",
+    "dependencies": {},
+    "keywords": [],
+    "name": "exercise_15_2",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "exercise_15_2",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "5403bbf1-d1d4-48f2-be0a-691c2f3f83fe",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}

@@ -1,0 +1,39 @@
+{
+    "author": "MakeAwesomeHappen",
+    "dependencies": {},
+    "keywords": [
+        "pebble-app"
+    ],
+    "name": "project-18-3",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "project-18-3",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "dummy"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "data/headlines.bin",
+                    "name": "HEADLINES_FILE",
+                    "type": "raw"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "3dbdf146-cfdf-4b81-bbc4-c47f9fbe7e31",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
