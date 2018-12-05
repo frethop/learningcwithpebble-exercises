@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "jipping+c@hope.edu",
+    "longName": "Project 5.1",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Project 5.1",
+    "uuid": "208feac4-193a-46cc-b6e9-d074dccdc366",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
