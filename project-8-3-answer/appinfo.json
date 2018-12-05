@@ -1,0 +1,36 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MathewReiss",
+    "enableMultiJS": false,
+    "longName": "Chapter 5-2",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/downFace.png",
+                "memoryFormat": "8Bit",
+                "name": "IMAGE",
+                "storageFormat": "png",
+                "targetPlatforms": [
+                    "basalt",
+                    "chalk"
+                ],
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Chapter 5-2",
+    "targetPlatforms": [
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "08546ce3-ae47-49b4-bb76-5980e82256e4",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}

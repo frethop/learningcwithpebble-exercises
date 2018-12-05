@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "allan175@hotmail.co.uk",
+    "enableMultiJS": true,
+    "longName": "exercise_8_4",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "exercise_8_4",
+    "uuid": "3f572a04-774f-4ade-9bd8-3fce767a8096",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "NiVZ",
+    "enableMultiJS": true,
+    "longName": "BOOK_EX_8_2_1",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "BOOK_EX_8_2_1",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "2d07a85b-51ec-424e-8c9b-a75d81293242",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}

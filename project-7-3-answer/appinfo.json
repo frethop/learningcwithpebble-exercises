@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "robisodd",
+    "enableMultiJS": true,
+    "longName": "Project 7.3 - Maze - Answer",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Project 7.3 - Answer",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "358f0a6f-5fc0-496e-be53-970b55fa503c",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}

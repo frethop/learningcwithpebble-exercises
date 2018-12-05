@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "paulniven@aol.com",
+    "enableMultiJS": false,
+    "longName": "BOOK_EX_6_2",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "BOOK_EX_6_2",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "14879d7d-ae3c-4c0f-8c82-d4a12ef78c0a",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}

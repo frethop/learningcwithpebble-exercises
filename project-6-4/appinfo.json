@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "robisodd",
+    "enableMultiJS": true,
+    "longName": "PROJECT 6.4",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "PROJECT 6.4",
+    "uuid": "5b9c1a0b-cb09-4272-b047-e18b937f2d5c",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
